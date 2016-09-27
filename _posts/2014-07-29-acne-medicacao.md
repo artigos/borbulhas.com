@@ -5,9 +5,9 @@ permalink: tratamento/medicacao
 categories: [tratamento]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Medicação na farmácia
+## Medicação na farmácia
 
 __Uma larga quantidade de preparações estão disponíveis na farmácia sem receita__, todas elas aplicáveis topicamente, isto é, directamente na pele. Estas incluem cremes de lavagem de pele antibacterianas, loções e sabões que agem na redução da actividade bacteriana da pele. Cremes anti-sépticos, pomadas e sabões podem destruir micro-organismos, e abrasivos ajudam a remover blocagens que estão a obstruir a pele.
 

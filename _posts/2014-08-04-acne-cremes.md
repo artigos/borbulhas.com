@@ -5,9 +5,9 @@ permalink: tratamento/cremes
 categories: [tratamento]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Cremes, geles e loções
+## Cremes, geles e loções
 
 As linhas gerais a seguir são: aplicar o tratamento duas vezes por dia (embora isto seja diferente com certos cremes e geles e haja instruções na embalagem - se tiver algumas dúvidas fale com o seu médico ou farmacêutico). O produto deve ser aplicado em toda a zona da pele aplicada pelo acne, não apenas nos pontos individualmente, porque assim evita-se que se desenvolvam novas marcas.
 

@@ -5,9 +5,9 @@ permalink: dieta/alimentacao
 categories: [dieta]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A alimentação
+## A alimentação
 
 A pele sujeita ao acne pode ser afectada por dieta de várias maneiras e uma queixa comum é que certos alimentos irritam e inflamam zonas afectadas. Os alimentos chamados «de reacção imediata» mais comummente chamados alimentos de especiarias, são elementos com um elevado conteúdo de iodo, tais como alimentos do mar e barrilha, alimentos contendo elevados níveis de gordura e os que são embalados com aditivos artificiais. Uma reacção alergica obriga os vasos sanguíneos a dilatarem-se e efraquecerem, conduzindo à inflamação e irritação da pele, As pessoas que sofrem de acne de rosácea podem ser particularmente sensíveis a alimentos de extremos diferentes, tais como alimentos altamente picantes e alimentos frios como os gelados. Além disto, tomer alimentos que têm elevado conteúdo de iodo pode causar uma excreção por meio das glândulas sebáceas, o que irrita a pele sensível, enquanto um excesso de chocolate, leite e açúcares muito refinados estimula a produção de sebo e pode enfraquecer o sistema imunitário.
 
@@ -17,7 +17,7 @@ As gorduras saturadas são uma das principais causas de doença de coração, qu
 
 A resposta é relativamente simples: __tanto quanto possível evitar alimentos que possam irritar e intensificar o acne.__
 
-##Alimentos a evitar
+## Alimentos a evitar
 
 * Alimentos gordurosos tais como batatas fritas, alimentos fritos, carne vermelha, manteiga, banha de porco.
 * Alimentos com elevado conteúdo de açúcar tais como doces e chocolates.
@@ -26,7 +26,7 @@ A resposta é relativamente simples: __tanto quanto possível evitar alimentos 
 * Sal com excessivo iodo e alimentos com elevado conteúdo de iodo tais como alimentos do mar - castanholas, camarão, eglefim, salmão, sardinhas e variedade de atum.
 * Álcool e bebidas quentes.
 
-##Elementos nutrientes essenciais
+## Elementos nutrientes essenciais
 
 Mais provas dos laços entre a dieta e a pele são as bruscas inflamações e erupções cutâneas que frequentemente ocorrem quando o corpo se toma deficiente em elementos nutrientes essenciais e outros elementos importantes (trace elements - oligoelementos), Uma dieta com falta de vitaminas A (na forma de beta-caroteno) e C tem um impacte importante na saúde e vitalidade da pele. Estas vitaminas funcionam para reparar o tecido da pele prejudicado e ambas são poderosos antioxidantes, o que significa que evitam a formação de radicais livres destrutivos - substâncias que são produzidas pelo corpo durante o curso da actividade normal das células, mas que em grandes quantidades destroem as células e proteínas fibrosas que se encontram na pele. Todavia, os radicais livres são importantes em auxiliar o corpo a livrar-se de produtos inúteis que se formam como resultado dos normais processos metabólicos. Se o sistema de purificação do corpo se toma preguiçoso, mais desperdícios e restos se amontoam na derme e epiderme, e isto pode eventualmente encorajar o acne.
 
@@ -34,7 +34,7 @@ O zinco é um «trace element» oligoelemento essencial e 20% do conteúdo de zi
 
 Ter bom aspecto não está no cimo da agenda do corpo, e se há uma falta de elementos nutrientes as áreas críticas são abastecidas em primeiro lugar e a pele fica para mais tarde. Os efeitos de uma dieta desequilibrada nem sempre aparecem na pele imediatamente, mas durante um período de tempo a pele piora na sua função tanto na superfície como nos tecidos dermais. A complexa constituição estrutural da pele, a diversidade das suas funções, a sua relação com outros órgãos e os processos bioquímicos significam que ela se toma rapidamente vulnerável quando o sistema está sob tensão. Se o corpo sente fome dos elementos nutrientes de que precisa, ou reciprocamente se está sobrecarregado de certas vitaminas ou minerais, estão a pele começa aparecer pálida e nada saudável, e pode eventualmente tornar-se sujeita às perturbações de pele.
 
-##Alimentos que poupam a pele
+## Alimentos que poupam a pele
 
 Uma dieta equílibrada constituída pelas exactas quantidades de proteínas, fibras, vitaminas e carbo-hidratos ajuda-nos a manter bem e activos.
 Tente-se comer muitos produtos frescos e tão pouco cozinhados quanto possível. Muito menos gente morre de doenças do coração e cancro em países em desenvolvimento, onde a dieta é normalmente baseada em carne fresca, vegetais e fruta.
@@ -49,24 +49,24 @@ Todos os nutrientes trabalham juntos para proporcionar a energia e os materiais 
 <table border="0" cellspacing="2" cellpadding="6" width="100%">
 <tbody>
 <tr>
-<td bgcolor="#EEEEEE">Cereais integrais</td>
-<td bgcolor="#EEEEEE">2 ou mais tipos.</td>
+<td bgcolor="# EEEEEE">Cereais integrais</td>
+<td bgcolor="# EEEEEE">2 ou mais tipos.</td>
 </tr>
 <tr>
-<td bgcolor="#EEEEEE">Fruta fresca</td>
-<td bgcolor="#EEEEEE">2 ou mais variedades.</td>
+<td bgcolor="# EEEEEE">Fruta fresca</td>
+<td bgcolor="# EEEEEE">2 ou mais variedades.</td>
 </tr>
 <tr>
-<td bgcolor="#EEEEEE">Vegetais</td>
-<td bgcolor="#EEEEEE">3 ou mais variedades (a juntar a batatas que são classificadas com amido).</td>
+<td bgcolor="# EEEEEE">Vegetais</td>
+<td bgcolor="# EEEEEE">3 ou mais variedades (a juntar a batatas que são classificadas com amido).</td>
 </tr>
 <tr>
-<td bgcolor="#EEEEEE">Óleos não refinados</td>
-<td bgcolor="#EEEEEE">1 colher de sopa.</td>
+<td bgcolor="# EEEEEE">Óleos não refinados</td>
+<td bgcolor="# EEEEEE">1 colher de sopa.</td>
 </tr>
 <tr>
-<td bgcolor="#EEEEEE">Ervas e especiarias</td>
-<td bgcolor="#EEEEEE">2 ou mais tipos.</td>
+<td bgcolor="# EEEEEE">Ervas e especiarias</td>
+<td bgcolor="# EEEEEE">2 ou mais tipos.</td>
 </tr>
 </tbody>
 </table>

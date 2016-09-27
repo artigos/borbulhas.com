@@ -5,9 +5,9 @@ permalink: dieta/desintoxicacao
 categories: [dieta]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A desintoxicação antiacne
+## A desintoxicação antiacne
 
 Todos os dias o nosso corpo é bombardeado com toxinas, não só a. partir dos elementos pesadamcmte processados das nossas dietas mas também a partir da atmosfera poluída que nos rodeia. Mesmos os frutos e vegetais contêm toxinas, porque os modernos métodos da agricultura envolvem a utilização de pesticidase outros produtos químicos, por isso convém comer tanta produção orgânica quanto possível ou pelomenos lavar qualquer fruta e vegetal antes de os comer. Os alimentos «fabricados» tambem são tratados quimicamente e isto e outrosptocessos de preservação alteram a comida natural,esgotando-a de muitos elementos nutrientes essenciais. Muitos aditivos dos alimentos são tóxicos em elevadas quantidades.
 Também estamos expostos a uma crescente série de poluentes atmosféricos provenientes de automóveis e produtos químicos industriais: O fumo do tabaco polui o ar e contém uma variedade de pesados metais venenosos, tais como o cádmio. Estes entopem os nossos poros da pele e passam para a corrente sanguínea através dos pulmões. Até os produtos de limpeza diária contêm substâncias tóxicas e é importante proteger a pele usando luvas de borracha a fim de evita a sobre exposição a estes materiais venenosos.

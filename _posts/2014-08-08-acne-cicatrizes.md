@@ -5,20 +5,20 @@ permalink: tratamento/cicatrizes
 categories: [tratamento]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Cicatrizes de acne
+## Cicatrizes de acne
 
 __As pessoas que sofrem de acne grave podem passar a ter cicatrizes.__ Se a cicatrização é mínima a maioria das pessoas acha que pode viver com ela e isso melhora mesmo com o tempo.
 Porém, se a cicatrização é extensiva, há algumas medidas cirúrgicas que é possível considerar. O acne pode deixar cicatrizes fundas e espessas, erguidas (ou quelóides).
 
-##Cicatrização Profunda
+## Cicatrização Profunda
 
 A cicatrização profunda é o resultado de inflamação da pele e formação de pus que realmente prejudicou a componente estrutural da pele e, como com ferimentos, como cortes e abcessos, o corpo cura o mal com tecido da cicatriz. Este tipo de cicatrização chama-se assim porque a pele parece que tem buracos ou tem um efeito amolgado. As cicatrizes fundas podem também ser grandes e semelhantes a crateras com limites bem definidos, ou pequenas, como se alguém tivesse metido um espigão na pele (normalmente referido como cicatrizes de picador de gelo). Infelizmente, como o acne pode afectar grandes secções da pele, a cicatrização pode também alargar-se a uma grande zona. Embora seja permanente, pode haver alguma melhoria com o tempo.
 
 O problema é que uma vez que tenha ocorrido uma cicatrização funda, a pele nunca vai voltar a ser perfeita. Todavia, há algumas boas notícias - existe uma série de procedimentos cosméticos que podem melhorar a aparência da pele. O principal fim a atingir, porém, deve ser impedir a cicatrização, antes que ocorra, com a ajuda de tratamentos activos descritos no começo deste capítulo. O professor Lowe sugere uma consulta ao médico se o acne está a irritar tanto que a tentação de coçar é muito grande. Ele trata de casos de «coçadores» com imediatas aplicações de um creme antibiótico ou injecções de cortisona para evitar que a pessoa se cicatrize a si própria.
 
-##Dermabrasar / areamento
+## Dermabrasar / areamento
 
 Esta operação é normalmente feita sob anestésico geral por cirurgiões plásticos e a proporção de êxito é entre 20% e 60% (as cicatrizes diminuídas reagem melhor do que a variedade de picadores de gelo). Usa-se uma escova de arame de alta velocidade ou rebarba de diamante para literalmente tomar planas as camadas do topo da pele.
 
@@ -26,7 +26,7 @@ Obviamente que a pele sentir-se-á um tanto dorida depois disso e a zona que foi
 
 Fazer o tratamento em situação privada custa em algum sítio da região 1500 libras. Convém uma pessoa certificar-se de que o cirurgião cosmético que faz a operação é pessoa com muita experiência.
 
-##Esfoliação química da pele
+## Esfoliação química da pele
 
 Com esta forma de tratamento, aplica-se um produto químico na pele que a queima e depois retira-se a camada superior. O fenol é a substância mais largamente usada em Inglaterra.
 
@@ -36,7 +36,7 @@ Verifique com o médico de clínica geral a possibilidade de disponibilidade no 
 
 Mais uma vez, é muito importante uma pessoa certificar-se de que o cirurgião cosmético que consulta é altamente experimentado em relação ao processo de esfoliação da pele.
 
-##Injecções de colagénio
+## Injecções de colagénio
 
 O colagénio purificado de pele de vaca é injectado na camada viva da epiderme em zonas onde haja cicatrização. Isto aumento o colagénio natural da pele, preenchendo as fendas da pele. Isto funciona com muita eficiência sobre cicatrizes fundas e macias, embora as cicatrizes com limites definidos de picadores de gelo não reajam normalmente a esta forma de tratamento.
 
@@ -46,11 +46,11 @@ Infelizmente, a melhoria com injecções de colagénio não é permanente e embo
 
 Verifique com o seu médico de clínica geral a disponibilidade do NHS da sua área.
 
-##Cicatrização de quelóides
+## Cicatrização de quelóides
 
 As cicatrizes de quelóides são o género granuloso saliente que podem resultar de qualquer espécie de acne embora a pele de algumas pessoas reaja mais provavelmente à ame desta maneira do que de outras. Na pele realiza-se um processo de tratamento anormal e a produção de tecido de cicatriz torna-se exagerada. As cicatrizes crescem lentamente, têm uma superfície suave e podem ser redondas ou oblongas. As cicatrizes de quelóides reagem melhor ao tratamento quando continuam activas, isto é, tenras ou com comichão. Os quelóides que se estabelecem não reagem bem (por vezes nem reagem) ao tratamento.
 
-###Tratamento
+### Tratamento
 
 As cicatrizes de quelóides são apenas desfigurantes; também podem ser dolorosas e provocar comichão. É necessário o tratamento logo que possível depois de se formarem quanto mais cedo o tratamento melhor a reacção. O tratamento torna planas as cicatrizes de quelóides e a dor e a comichão desaparecerão mas, infelizmente, a pele nunca voltará a ser normal.
 

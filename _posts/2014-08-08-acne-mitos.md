@@ -5,9 +5,9 @@ permalink: acne/mitos
 categories: [acne]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Os mitos que rodeiam o acne
+## Os mitos que rodeiam o acne
 
 Para aumentar o mal, há muitos mitos e muito má informação em tomo desta situação, que serve apenas para fazer crescer a confusão e o sofrimento das pessoas que estão afectadas. O Dr. Anthony Chu também acredita que é __«uma das poucas doenças em que as pessoas que dela sofrem são ridicularizadas por causa da sua doença em vez de receber compreensão»__, que é o resultado do facto de que a __«sociedade vê o acne como algo para causar riso e a pessoa ficar envergohada»__. Os adolescentes e as crianças podem ser especialmente cruéis com a sua zombaria.
 

@@ -5,9 +5,9 @@ permalink: acne/rosacea
 categories: [acne]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Problemas de Rosácea
+## Problemas de Rosácea
 
 __O acne de rosácea__ é uma espécie diferente de acne, mas continua a ser um problema relativamente comum, particularmente na meia-idade (que é a razão por que é referido algumas vezes como __acne de adulto__). Os sintomas desta situação da pele estendem-se de ataques periódicos de rubor, a pele permanentemente vermelha com veias quebradas ou erupções como ame com protuberâncias e pústulas.
 Aproximadamente uma em dez mulheres entre as idades de trinta e cinquenta e cinco anos sofre de alguma forma de acne de rosácea e, embora não seja tão comum nos homens, aqueles que sofrem mesmo tendem a ter uma forma mais grave chamada rinofima, que afecta a pele no nariz. Isto faz a pele tornar-se espessa e passar a ter uma cor forte de vermelho púrpura.

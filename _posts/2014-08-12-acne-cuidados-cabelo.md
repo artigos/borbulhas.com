@@ -5,15 +5,15 @@ permalink: cuidados/cabelo
 categories: [cuidados]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Cuidado do cabelo
+## Cuidado do cabelo
 
 Os produtos para o cabelo podem também causar problemas com a pele do rosto, especialmente ao redor da linha do cabelo. Deve-se ter tanto cuidado com os produtos que se usam para o cabelo como aqueles que se usam para a pele, porque certos produtos para o cabelo contendo lanolina podem agravar os problemas de óleo e causar «acne de brilhantina» sobre a testa e as têmporas. Convém usar um champô suave e um condicionador e ter a certeza de que se enxagua tudo completamente. Tomar cuidado com produtos de estilo tais como mousses e geles porque muitos destes contêm álcool que pode secar e irritar a pele.
 
 Tente-se fazer um champô próprio que seja suave na pele e apropriado para todos os tipos de cabelo. Eis uma receita.
 
-###Champô de sândalo e de saponária 25 gr de raiz de saponária cortada.
+### Champô de sândalo e de saponária 25 gr de raiz de saponária cortada.
 
 * 25 gr de flores secas de camomila.
 * 250 ml de água bem quente.
@@ -21,18 +21,18 @@ Tente-se fazer um champô próprio que seja suave na pele e apropriado para todo
 
 Colocar a raiz de saponária cortada e as flores de camomila numa bacia e deitar água quente quase a ferver. Agitar, cobrir e deixar durante a noite. De manhã torcer bem e juntar óleo de essência. Usar apenas uma pequena quantidade de champô de cada vez.
 
-###Cuidados de pele feito pelo próprio
+### Cuidados de pele feito pelo próprio
 
 Fazer e usar os próprios cosméticos é uma forma interessante, barata e, o mais importante, natural de tratar da própria pele. Usando ingredientes, tais como ervas, fruta e vegetais, a pessoa pode preparar muitas infusões diferentes, adstringentes e cremes que podem não só tratar problemas de pele como minimizar o risco de irritação causado por produtos químicos e nocivos e preservativos encontrados em muitos produtos fabricados.
 Verificamos que provavelmente já temos muitos ingredientes na cozinha, tais como mel, farinha fina de milho, arroz, etc., azeite, óleo de cereais e farinha de aveia, por exemplo. Outros materiais crus, tais como aloés vera, sumo, óleo de avelã e óleo de ónagra estão largamente disponíveis nos supermercados, farmácias e lojas de alimentos de saúde. Não é preciso nenhum equipamento especial, embora seja melhor manter um conjunto de utensílios para este fim, separados de alguns que se usam para cozinhar, para reduzir os riscos de contaminação de germes e odores. Com receitas feitas em casa usando fruta fresca e vegetais é importante recordar que isso terá uma duração de vida de apenas uns quantos dias e devem ser guardados no frigorífico para mantê-los frescos.
 
 Convém ter o cuidado de manter os produtos forada luz directa do sol e, para fórmulas baseadas em água, usar apenas esta filtrada, fervida e fresca ou distilada disponível na farmácia. Claro que devemos lavar as mãos antes de começar.
 
-##Receitas
+## Receitas
 
 Uma barra de sabão com substância medicinal suave feita em casa é excelente para usar para peles oleosas, sujeitas o acne. Os óleos de essência purificam a pele e têm um efeito mais suave do que muitos sabões comerciais.
 
-##Sabão suavemente medicado
+## Sabão suavemente medicado
 
 * 150 gr de suave sabão de azeite.
 * 50 ml de forte chá de salva.
@@ -44,7 +44,7 @@ Fazer o chá de salva por meio de infusão de uma colher de sobremesa de salva s
 
 Retirar do calor e deixar arrefecer antes de juntar os óleos de essência, porque o calor reduz a sua força. Deitar a mistura em latas de bolos ou chávenas de ovos untadas e deixar num lugar fresco para endurecer durante a noite. Retirar das formas usando uma faca afiada e envolver em papel de seda.
 
-##Ataque da mancha com óleo de árvore de chá
+## Ataque da mancha com óleo de árvore de chá
 
 * 5 ml de óleo de avelã ou de jojoba.
 * 2 gotas de óleo de essência de árvore de chá.
@@ -56,7 +56,7 @@ Misturar os óleos na palma da mão e aplicar na área afectada com as pontas do
 
 Pele oleosa e sujeita o acne pode ser melhorada usando um hidratante leve e livre de óleo.
 
-##Hidratante livre de óleo
+## Hidratante livre de óleo
 
 * 20 gr de linhaça.
 * 200 ml de água fervente.
@@ -70,7 +70,7 @@ Misture-se o restante com glicerina e água-de-rosas para formar uma leve loçã
 
 Os homens que sofrem de acne provavelmente verificarão que muitos produtos comerciais de barbear podem irritar e inflamar a situação da pele. Creme de barbear de pepino feito em casa e uma excelente solução. Contendo sumo de pepino para suavizar a pele, óleo de alfazema para sarar quaisquer golpes da lâmina, e óleos de plantas naturais, isso deixa a pele hidratada e suave.
 
-##Creme de barbear de pepino
+## Creme de barbear de pepino
 
 * 175 gr de óleo de coco.
 * 50 ml de hamamele.

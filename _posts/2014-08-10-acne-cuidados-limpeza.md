@@ -5,13 +5,13 @@ permalink: cuidados/limpeza
 categories: [cuidados]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A pele é um órgão que se limpa a si próprio, por isso num mundo ideal não teríamos de nos lavar. Infelizmente a sujidade, a poluição e a constituição significa que a pele se toma demasiado bloqueada para tratar de si própria, e seguir uma rotina de cuidado de pele é essencial para sair de dificuldades.
 
 Sem limpeza, levaria vinte e cinco dias em média para a pele se livrar dos restos reunidos durante um dia normal moderno!
 
-##Sabão e água
+## Sabão e água
 
 De uma forma geral, lavar a cara com sabão e água não é aconselhável parâ quem sofre de acne. Muitos sabões são feitos com gorduras de animal tais como o sebo e tendem a retirar da pele os seus óleos naturais, deixando-a excessivamente seca. Os sabões também perturbam o delicado equilíbrio de pH (medida de acidez e alcalinidade de uma substância) da pele deixando-a vulnerável a bactérias e infecção até que o equilíbrio seja restaurado. O sabão tem um pH alcalino de cerca de 8, ao passo que a pele natural é ligeiramente ácida com um pH de 5,5. O sabão não remove a constituição com eficiênCia e rnuitas vezes deixa um resíduo na pele que causa mais secura, a não ser que seja enxaguada completamente.
 
@@ -19,7 +19,7 @@ Não são tudo más notícias para as pessoas que não se podem livrar do hábit
 
 Convém procurar aqueles que têm etiquetas como sendo apropriados para peles sensíveis.
 
-##Hidratação
+## Hidratação
 
 Hidratar é o passo final do programa e é essencial para todos os tipos de pele, especialmente nas atmosferas de escritório secas de hoje e com utilização de aquecimento central na maioria das casas. Peles oleosas e sujeitas o acne precisam tanto de protecção contra a perda de humidade e contra os efeitos de bactérias como peles secas. Até recentemente, pensava-se que o acne podia ser aliviada privando a pele dos seus óleos faciais, mas já foi descoberto que isto apenas serve para estimular as glândulas sebáceas para a produção de mais sebo.
 

@@ -5,9 +5,9 @@ permalink: tratamento/natural
 categories: [tratamento]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Uma abordagem natural
+## Uma abordagem natural
 
 __As borbulhas que são características do acne__, quer sejam protuberâncias vermelhas, pústulas amarelas ou saliências negras, estão todas repletas de bactérias, portanto a principal forma de tratamento convencional é com elevadas doses de antibióticos. Mas estes antibióticos não estão livres de efeitos colaterais, tais como infecções / aftas em mulheres.
 
@@ -23,13 +23,13 @@ Suamos aproximadamente 56,83 cl de líquido numa base diária (sem levar em cont
 
 Há grandes quantidade de alimentos que podemos comer que encorajem activamente a eliminação de desperdícios do corpo. Mas primeiro as más notícias: devem-se evitar certos alimentos a fim de facilitar o processo e eliminação, porque são aqueles que produzem a maior parte de desperdícios e toxinas nas células da pele. Estes incluem leite, creme, açúcar, alimentos conservados e os que têm muitos aditivos.
 
-##Homeostásis
+## Homeostásis
 
 O corpo humano é como uma maravilhosa máquina autogeradora. Sara-se e regula-se por meio de um processo conhecido como homeostásis. Uma das funções fundamentais da homeostásis é desintoxicar o corpo e isto envolve uma série de órgãos corpóreos incluindo a pele. A eficiência destes órgãos depende tanto dos factores herdados como da forma como tratamos o nosso corpo. Algumas pessoas parecem abusar continuamente do seu corpo e todavia sair incólumes, enquanto outras são incapazes de enfrentar pequenos níveis de toxinas e stress.
 
 Este factor é provavelmente genético. Porém, é possível melhorar os níveis de homeostásis.
 
-##As entranhas
+## As entranhas
 
 As entranhas deslocam grandes quantidades de matérias diariamente, mas podem facilmente ficar obstruídos devido a uma dieta pobre. Se a pessoa pensa que um movimento das entranhas por dia é bom, então pense de novo!
 
@@ -39,7 +39,7 @@ Alguns dos alimentos da nossa dieta ficam parados atrás no cólon causando uma 
 
 Cortar no trigo e outros cereais que contêm glúten pode também ajudar a manter as entranhas e cólon bem limpos.
 
-##Intestinos
+## Intestinos
 
 Os alimentos que comemos passam do estômago para os intestinos onde os nutrientes são absorvidos e os resíduos ficam prontos para a eliminação.
 
@@ -49,7 +49,7 @@ Se a pessoa sofre de obstipação e intestinos preguiçosos, não deve sobrecarr
 
 Comer frutos secos como figos e ameixas regularmente fará as coisas moverem-se. É também extremamente importante manter a tomada de fluido alta, portanto convém beber pelo menos 1,5 litro de água pura diariamente Guntamente com bebidas quentes).
 
-##Rins
+## Rins
 
 __A acção dos rins é dupla.__ Eliminam as toxinas do sangue por meio da urina e também poupam e absorvem valiosos nutrientes que podem ser recicIados para uso futuro do corpo.
 
@@ -59,7 +59,7 @@ Infelizmente, a eficiência deste efeito de filtro diminui com a idade ou toxida
 
 Comer funcho, alho-porro, cebolas e couve crua ajuda os rins a funcionar com mais eficiência. Ou tentar beber uma infusão de chá de urtiga. Sumo de espargos é um purificador particularmente bom dos rins, e aumentar a tomada de água pura também faz bem.
 
-##Fígado
+## Fígado
 
 __Este órgão importante de desintoxicação tem mais de 1500 funções diferentes__, desde segregar bílis para a formação do sangue.
 
@@ -69,7 +69,7 @@ Comer uvas, aipo, maçãs, cenouras, azeitonas, azeite e beber chá de dente-de-
 
 Os suplementos de silymarin (cardo de leite) podem também ser tomados para fortalecer o funcionamento do fígado.
 
-##Pulmões
+## Pulmões
 
 Quaisquer restos tóxicos deixados no sistema interno podem ser exalados através dos pulmões.
 
@@ -81,7 +81,7 @@ Os nossos pulmões estão constantemente a lançar cá para fora dióxido de car
 
 Um dos melhores expectorantes para limpar os pulmões é o alho, de preferência fresco, embora seja possível comprar cápsulas de alho em lojas de alimentos de saúde.
 
-##Vasos linfáticos
+## Vasos linfáticos
 
 A linfa é um produto derivado do sangue e é transportado pelo corpo através de uma vasta rede de vasos.
 
@@ -91,7 +91,7 @@ Os vasos de linfa contêm uma enorme quantidade de células brancas do sangue qu
 
 O sistema de drenagem linfático representa um papel importante na remoção dos desperdícios, mas pode facilmente ficar obstruído por uma dieta que seja demasiado rica em alimentos com que o corpo acha difícil conviver, tais como a carne vermelha, produtos lácteos, açúcar, alimentos fritos e substâncias sintéticas.
 
-##Pele
+## Pele
 
 A pele é um apoio extremamente eficiente para os outros órgãos de eliminação. As centenas de milhares de glândulas de suor na pele agem como mini-rins, desintoxicando outros órgãos e limpando o sangue.
 

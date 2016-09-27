@@ -5,7 +5,7 @@ permalink: cuidados
 categories: [cuidados]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Como cuidar da pele e que tipo de regime seguir é o assunto de muita discussão. Muitas mulheres e um pequeno número mas rapidamente .crescentede homens seguem uma rotina de cuidados de pele: limpar, tonificar e hidratar duas vezes por dia; a primeira coisa de manhã e a última coisa à noite.
 Outras pessoas, porém, decidem passar por cima da massagem diária e optam pelo sabão e água. Janet Bass, chefe de grupo de investigação e desenvolvimento em Elizabeth Arqen diz «Quando uma pessoa está, a tratar de um assunto como a pele, é natural entrar em contradições porque é uma questão altamente individual.» A pele é um órgão que está constantemente a modificar-se, afectada por factores, tais como' a idade, hormonas e o ambiente.
@@ -14,7 +14,7 @@ O conselho deJanet Bass é ser-se flexível e estar-se preparado para alterar o 
 
 Para quem sofre de acne, todavia, é mais importante do que nunca escolher os produtos correctos e ter uma rotina firme de cuidado da pele. Mitchell S. Wortzman, President of Neutrogena Dermatologics, explica: «Os produtos apropriados de limpeza, tonificação e hidratação são importantes para o doente de acne, principalmente porque a escolha imprópria destes produtos pode causar irritação ao folículo e exacerbar as condições existentes de acne. O doente típico de acne muitas vezes está a usar produtos de tratamento para secar e / ou irritar. Usar produtos de limpeza que são demasiados ásperos ou tonificantes que são elevados em álcool fará continuar a secar demasiado a pele e criar mais inflamação. A hidratação apropriada é importante porque apele bem hidratada tende a.estar menos sujeita a irritação. Os produtos especialmente preparados para pele sensível, isto é, produtos hipo-alergénicos sem perfumes ou irritantes ou alergénicos não curarão o acne, mas tornarão esses tratamentos que curam mais toleráveis.
 
-##Escolher produtos de cuidados de pele
+## Escolher produtos de cuidados de pele
 
 Não há nenhuma poção mágica que faça desaparecer manchas e borbulhas imediatamente. Os resultados de um novo regime de cuidado de pele levarão pelo menos três semanas a mostrar-se, porque a renovação da pele leva entre vinte e um e vinte e oito dias. A resposta é seguir um programa apropriado e usar produtos que sejam adaptados à pele afectada pelo acne.
 

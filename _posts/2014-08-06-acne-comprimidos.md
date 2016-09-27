@@ -5,9 +5,9 @@ permalink: tratamento/comprimidos
 categories: [tratamento]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Comprimidos
+## Comprimidos
 
 Os antibióticos tetracidina e a eritromicina são normalmente tomados duas vezes ao dia. Devem ser tomados com água aproximadamente meia hora antes de comer. Se a pessoa se esquecer de tomar o comprimido antes de comer uma refeição, não deve esperar até à próxima refeição - convém tomá-lo de imediato.
 

@@ -5,9 +5,9 @@ permalink: dieta
 categories: [dieta]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A Dieta Antiacne
+## A Dieta Antiacne
 
 __A nossa pele reflecte externamente o que se passa internamente__. Em geral, quando somos saudáveis o aspecto da nossa pele é fresco e claro; se não estivermos com saúde ou estivermos sob stress a pele fica pálida e amarelada. Seguir uma dieta variada e equilibrada, eliminar comidas muito elaboradas e gor:duras s~hlfada.s.e ,ter um estilo de vida activo é o fundamental pará termos um bom aspecto e sentirmo-nos bem . Este óptimo estilo de vida também ajuda a combater os efeitos psicológicos potencialmente destrutivos das perturbações crónicas da pele.
 
@@ -15,7 +15,7 @@ Como já sugerimos, não há provas médicas para afirmar que uma pobre dieta s�
 
 O debate dieta / acne continua, mas o que é claro é que o tratamento do acne e de outros problemas crónicos da pele andam a par com uma dieta equilibrada e um estilo de vida saudável que inclui fazer exercício e reduzir o stress. Entre outras coisas, uma dieta elevada em gorduras saturadas e com falta de nutrientes essenciais pode impedir os processos de cura da pele e até reduzir a eficiência de tratamentos médicos.
 
-##O exercício e a nossa pele
+## O exercício e a nossa pele
 
 Fazer exercício regular, particularmente fora de casa, é essencial para uma pele clara e saudável. A boa circulação assegura que um constante fornecimento de células de sangue rico em oxigénio repare, alimente e construa novos tecidos de pele.
 
@@ -23,7 +23,7 @@ Bastante exercício também nos faz parecer jovens pelo fortalecimento do colag�
 
 Convém recordar que é preciso ter cuidado nos meses de Verão e usar um creme com elevada FPS (factor de protecção solar) para proteger-nos contra os ardentes UV (ultravioleta) que prejudicam a pele e agravam os problemas da pele.
 
-##O factor stress
+## O factor stress
 
 __Melhorar a nossa saúde geral também significa reduzir a quantidade de stress na nossa vida__.
 

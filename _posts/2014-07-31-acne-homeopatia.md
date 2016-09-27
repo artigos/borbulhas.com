@@ -5,13 +5,13 @@ permalink: tratamento/homeopatia
 categories: [tratamento]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O tratamento homeopático baseia-se no princípio de que uma substância que, em grandes doses, causará os sintomas de uma doença pode ser usada em doses diminutas para aliviar os mesmos sintomas.
 O princípio é muitas vezes descrito como curativo «igual com igual». Em medicina homoeopática há uma grande ênfase na individualidade do paciente, por isso uma consulta completa com um profissional é valiosa.
 Todavia, há um número crescente de remédios disponíveis ao balcão que uma pessoa pode usar para tratar os seus sintomas. O que se segue é uma breve lista de pequenas referências.
 
-##Acne vulgaris
+## Acne vulgaris
 
 A escolha do remédio homeopático depende do tipo de acne:
 
@@ -20,7 +20,7 @@ A escolha do remédio homeopático depende do tipo de acne:
 * Para ame crónico toma-se bichromicum 6c de barrilha e para acne que é tão grave que é provável que venha a causar cicatrizes tente-se silica 6c.
 * Psorinium 6c recomenda-se para infecções graves e que causam comichão.
 
-##Acne de rosácea
+## Acne de rosácea
 
 Os seguintes remédios homoepáticos devem ser tomados três vezes por dia até três semanas:
 
@@ -36,7 +36,7 @@ Os remédios estão à venda em lojas de alimentos para a boa saúde, farmácias
 
 Esta abordagem holística é feita à saúde da pessoa, considerando a dieta e a história médica para ver quais são os tratamentos mais apropriados no caso.
 
-##Novos tratamentos
+## Novos tratamentos
 
 Uma das formas de tratamento para o acne mais recentes, e provavelmente nada convencionais, surge na forma de um amargo sumo verde extraído de tubarões. Têm vindo do Japão afirmações de que um extracto da bílis do tubarão tirado da vesÍcula do animal é eficiente contra as manchas. Todavia, algumas pessoas acham cruel a ideia de usar bílis de tubarão para reduzir a seu acne, apesar do facto de que os tubarões não são uma espécie que causa perigo.
 

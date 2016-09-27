@@ -5,9 +5,9 @@ permalink: dieta/outros
 categories: [dieta]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Minerais e elementos de «trace»
+## Minerais e elementos de «trace»
 
 Os minerais são outro grupo de substâncias que dá vida, que se encontram no corpo, e podem dividir-se em duas categorias: os que se encontram em maiores quantidades,incluindo o cálcio e o sódio, e os elementos de «Trace» (oligo-elemento - substância. química que é necessária para o crescimento e desenvolvimento saudável, encontrada em plantas e animais em muitas pequenas quantidades) que estão presentes em menores quantidades, tais como o cobre, enxofre e zinco.
 
@@ -23,7 +23,7 @@ Como vimos, o zinco e o iodo têm ambos estado ligados à acne: um excesso de io
 
 Tomar suplementos de vitaminas minerais pode melhorar a pele tendente o acne. As pessoas que sofrem dela podem ter vantagem em tomar quantidades extra de zinco - cerca de 30 mg a 40 mg por dia uma hora e meia depois de comer e de preferência à noite. O acne ligado à tensão pré-menstrual (TPM) ou pílula contraceptiva pode beneficiar dos suplementos da complexa vitamina B, especialmente vitamina B6, enquanto um pequeno suplemento de selénio de 200 mg por dia pode ajudar os homens que sofrem de acne. As pessoas que são afectadas pelo acne de rosácea podem beneficiar dos suplementos de zinco, vitaminas do complexo B e da vitamina C-extra. Pequenas quantidades de silicone e zinco podem também ajudar para proteger as paredes capilares e fortalecer o sistema de imunização para resistir à infecção.
 
-##Aminoácidos
+## Aminoácidos
 
 __Os aminoácidos são ainda outro grupo de nutrientes vitais para uma boa saúde.__ Formando a base de todas as espécies de proteinas dos nossos alimentos, já foram identificados uns vinte e tantos aminoácidos.
 
@@ -33,7 +33,7 @@ A investigação científica está apenas a começar a tocar nas funções dos a
 
 A cisterna, por outro lado, actua como antioxidante contra substâncias venenosas que inspiramos, tais como metais e fumo de cigarros, sendo tudo isso má notícia para a pele, bem como para a saúde em geral.
 
-##Ácidos gordos essenciais
+## Ácidos gordos essenciais
 
 Os dermatologistas têm recentemente prestado muita atenção a um grupo de nutrientes conhecidos como ácidos gordos essenciais.
 
@@ -43,7 +43,7 @@ No Reino Unido ainda continuamos atrás dos americanos ao reduzir a ingestão da
 
 Óleo de fígado de bacalhau e suplementos de óleo de peixe podem ajudar as pessoas que sofrem de ame ingeridos com regularidade.
 
-##Enzimas
+## Enzimas
 
 Destruídas pelo calor e pelo processamento da comida, as enzimassó se podem obter comendo alimentos frescos e crus. Por esta razão é essencial que as nossas dietas incorporem abundância de saladas e fruta fresca.
 

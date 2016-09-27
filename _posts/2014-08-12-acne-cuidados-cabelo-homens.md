@@ -5,7 +5,7 @@ permalink: cuidados/homens
 categories: [cuidados]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O ritual da limpeza, atenuação e hidratação está associado predominantemente aos cuidados da pele das mulheres. Todavia, os homens podem beneficiar do programa, dos cuidados da pele, especialmente se têm problemas nessa área. A pele dos homens é mais espessa, mais oleosa, tem mais colagénio e elas tina e tem maiores aberturas de poros que passam a estar bloqueados com sujidade e óleo.
 

@@ -5,7 +5,7 @@ permalink: glossario
 categories: [glossario]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 * __Adstringente__ - qualquer substância que causa uma contracção do tecido do corpo quando aplicada à pele.
 * __Allantoin__ - um produto químieo extraído da planta de consolda que estimula a divisão das células e portanto apressa a formação de cicatrizes e ajuda o processo de sarar o tecido da pele.

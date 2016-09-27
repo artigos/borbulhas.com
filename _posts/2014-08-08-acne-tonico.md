@@ -5,9 +5,9 @@ permalink: dieta/tonico
 categories: [dieta]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Tónico de acne interno
+## Tónico de acne interno
 
 As ervas são altamente nutritivas e há uma riqueza de ervas que podem ajudar a limpar o corpo e a clarear a pele. Eis uma receita para um tónico herbáceo interno eficiente.
 

@@ -5,9 +5,9 @@ permalink: acne/graus
 categories: [acne]
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Graus e tipos de acne
+## Graus e tipos de acne
 
 Pode-se pegar em duas pessoas com acne e numa a situação pode ser pouco notável, enquanto na outra a pele pode ter sido deteriorada pelo acne em tal extensão que há numerosas cicatrizes e quistos. Isto é porque as pessoas têm diferentes quantidades de acne e sofrem-na em vários graus de gravidade. Os problemas de acne dividem-se geralmente em quatro graus:
 
